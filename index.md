@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Blog"
 ---
 
 I am a 23 Year Old Software Developer. I like to go beyond limits to do what needs to be done.
